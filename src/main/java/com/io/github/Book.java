@@ -14,4 +14,11 @@ public class Book {
 
     public Book() {
     }
+
+    public Book(String title, int yearOfPublishing, String isbnNumber, String authorName) {
+        this.title = title;
+        this.yearOfPublishing = yearOfPublishing;
+        this.isbnNumber = isbnNumber;
+        this.authorName = authorName;
+    }
 }
