@@ -21,4 +21,12 @@ public class Book {
         this.isbnNumber = isbnNumber;
         this.authorName = authorName;
     }
+
+    public void displayDetails() {
+        System.out.println("title = " + title);
+        System.out.println("Year of publishing = " + yearOfPublishing);
+        System.out.println("ISBN Number = " + isbnNumber);
+        System.out.println("Author Name = " + authorName);
+    }
+
 }
