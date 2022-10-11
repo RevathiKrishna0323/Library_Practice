@@ -13,6 +13,11 @@ public class Book {
     String authorName;
 
     public Book() {
+        String title = "Harry Potter";
+        int yearOfPublishing = 2000;
+        String isbnNumbe = "12345";
+        String authorName = "Revathi";
+
     }
 
     public Book(String title, int yearOfPublishing, String isbnNumber, String authorName) {
