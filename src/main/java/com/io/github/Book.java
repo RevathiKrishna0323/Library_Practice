@@ -7,4 +7,8 @@
 package com.io.github;
 
 public class Book {
+    String title;
+    int yearOfPublishing;
+    String isbnNumber;
+    String authorName;
 }
