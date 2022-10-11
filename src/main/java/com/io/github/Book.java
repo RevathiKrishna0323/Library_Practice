@@ -11,4 +11,7 @@ public class Book {
     int yearOfPublishing;
     String isbnNumber;
     String authorName;
+
+    public Book() {
+    }
 }
