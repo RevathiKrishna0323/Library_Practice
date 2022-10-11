@@ -9,5 +9,6 @@ package com.io.github;
 public class BookImpl {
     public static void main(String[] args) {
         Book book = new Book("Harry Potter", 2000, "12345", "Revathi");
+        book.displayDetails();
     }
 }

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4649a55c-be48-4c5b-a808-33f56d0f3eb7" name="Changes" comment="created the BookImpl class" />
+    <list default="true" id="4649a55c-be48-4c5b-a808-33f56d0f3eb7" name="Changes" comment="created object of the Book class in the BookImpl class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/io/github/BookImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/io/github/BookImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665462414723</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added main method to the BookImpl class">
+      <created>1665462455185</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665462455185</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created object of the Book class in the BookImpl class">
+      <created>1665462667461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665462667461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +149,9 @@
     <MESSAGE value="added parameterised constructor to the Book class" />
     <MESSAGE value="added displayDetails() method to the Book class and reformatted the code" />
     <MESSAGE value="created the BookImpl class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the BookImpl class" />
+    <MESSAGE value="added main method to the BookImpl class" />
+    <MESSAGE value="created object of the Book class in the BookImpl class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created object of the Book class in the BookImpl class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
